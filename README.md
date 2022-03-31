@@ -1,4 +1,5 @@
 # web-app-stack
+test commit
 
 This Terraform stack creates the following resrouces.
  - VPC
@@ -24,3 +25,4 @@ This Terraform stack creates the following resrouces.
  - The instances 
  - The autoscalled instances as well as initial instances will be added latest Ubuntu images
  - BUG: In the case of error related to ELB which cannot be attached to multiple subnets, you can simply re run the apply command
+
